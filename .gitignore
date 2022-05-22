@@ -12,7 +12,7 @@
 .идея/**/usage.statistics.xml
 .idea/**/словари
 .idea/**/полка
-.idea
+.idea/
 
 # AWS User-specific
 .idea/**/aws.xml
