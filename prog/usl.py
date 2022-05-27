@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#п е с с и ф м а я
-
 if __name__ == '__main__':
     s = input("Enter the 1-st world: ")
     a = input("Enter the 2-nd world: ")
